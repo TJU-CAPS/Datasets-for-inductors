@@ -131,6 +131,10 @@ If you use this dataset in your research, please cite:
 }
 ```
 
+## Funding
+
+This work is supported by **TECH SEED**.
+
 ## License
 
 This project uses a **dual license**:
