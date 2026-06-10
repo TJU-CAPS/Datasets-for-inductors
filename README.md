@@ -116,6 +116,23 @@ PQ 型磁芯数据集同样由 Maxwell 有限元仿真生成，涵盖 PQ 16/11.6
 
 数据由 Maxwell 有限元仿真软件生成，用于电力电子领域中高频电感器的损耗建模研究。
 
+如果您在研究中使用了本数据集，请引用：
+
+```
+@misc{TJU-CAPS-inductors,
+  author       = {TJU-CAPS},
+  title        = {Datasets for Inductors: EC and PQ Core Loss Prediction},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/TJU-CAPS/Datasets-for-inductors}
+}
+```
+
 ## License
 
-This dataset is provided for research purposes. Please cite appropriately if used in publications.
+本项目采用**双重许可**：
+
+- **代码** (`Train.py` 等源码) — [MIT License](LICENSE)
+- **数据集** (CSV 文件) — [CC BY 4.0](LICENSE-DATA)
+
+使用数据时请务必**署名**，标明数据来源为 TJU-CAPS。磁芯数据手册 (PDF) 为各厂商公开发布的技术文档，版权归原厂商所有。
