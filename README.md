@@ -1,5 +1,7 @@
 # Datasets for Inductors — Core Loss Prediction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20619694.svg)](https://doi.org/10.5281/zenodo.20619694)
+
 Machine learning datasets and training code for **inductor loss prediction**, covering two common core types: **EC core** and **PQ core**.
 
 ## Project Structure
@@ -123,8 +125,9 @@ If you use this dataset in your research, please cite:
   author       = {TJU-CAPS},
   title        = {Datasets for Inductors: EC and PQ Core Loss Prediction},
   year         = {2025},
-  publisher    = {GitHub},
-  url          = {https://github.com/TJU-CAPS/Datasets-for-inductors}
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20619694},
+  url          = {https://doi.org/10.5281/zenodo.20619694}
 }
 ```
 
